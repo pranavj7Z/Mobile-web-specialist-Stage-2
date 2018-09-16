@@ -1,4 +1,4 @@
-#Project Overview: Stage 2
+# Project Overview: Stage 2
 
 For the Restaurant Reviews projects, 
 you will incrementally convert a static webpage to a mobile-ready web application.
@@ -9,18 +9,18 @@ which will create an app shell architecture.
 Finally, you’ll work to optimize your site to meet performance benchmarks, 
 which you’ll test using Lighthouse.
 
-#Progress
+# Progress
 Converted to pull data from external Sails server
 Added use of IndexedDB to store JSON data for offline first using J. Archibald's IndexedDB Promise library
 Added manifest.json plus icons for PWA
 Lighthouse Audit Score - Minimum Specifications
 
-#Required score
+# Required Lighthouse Audit Score
 PWA > 90
 Performance > 70
 Accessibility > 90
 
-#My Score
+# My current Lighthouse Audit Score
 PWA = 91
 Performance = 88
 Accessibility = 94
