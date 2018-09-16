@@ -1,0 +1,20 @@
+{
+  "short_name": "RR",
+  "name": "Restaurants Review",
+  "icons": [
+    {
+      "src": "img/icon.jpg",
+       "type": "image/jpg",
+       "sizes": "234x234"
+    },
+    {
+      "src": "img/splash.jpg",
+       "type": "image/jpg",
+       "sizes": "520x520"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fdfdfd",
+  "theme_color": "#3367D6",
+"display": "standalone"
+}
