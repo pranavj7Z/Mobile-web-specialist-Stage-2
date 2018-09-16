@@ -10,7 +10,7 @@ Finally, you’ll work to optimize your site to meet performance benchmarks,
 which you’ll test using Lighthouse.
 
 # Progress
-Converted to pull data from external Sails server
+Converted to pull data from external Sails server\n
 Added use of IndexedDB to store JSON data for offline first using J. Archibald's IndexedDB Promise library
 Added manifest.json plus icons for PWA
 Lighthouse Audit Score - Minimum Specifications
