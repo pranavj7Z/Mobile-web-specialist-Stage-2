@@ -9,13 +9,11 @@ self.addEventListener('install', function(event) {
         '/restaurant.html',
         '/css/styles.css',
         '/js/main.js',
-	'/service-worker.js',
-	'/js/app.js',
+	      '/service-worker.js',
+	      '/js/app.js',
         '/js/dbhelper.js',
         '/js/restaurant_info.js',
-        '/img/data/restaurants.json',
-        '/img/icon.jpg',
-        '/img/splash.jpg',
+        '/data/restaurants.json',
         '/img/1.jpg',
         '/img/1_md.jpg',
         '/img/1_sm.jpg',
@@ -45,7 +43,9 @@ self.addEventListener('install', function(event) {
         '/img/9_sm.jpg',
         '/img/10.jpg',
         '/img/10_md.jpg',
-        '/img/10_sm.jpg'
+        '/img/10_sm.jpg',
+        '/img/icon.jpg',
+        '/img/splash.jpg'
       ]);
     })
   );
